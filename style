@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+}
+
+.logo{
+    height: 100px;
+    width:100px ;
+   text-align: center;
+   font-size: 25px;
+}
+
+body{
+    background-color: black;
+}
+
+header{
+    color: white;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+.contet{
+    height:200px ;
+    width:300px ; 
+}
+
+.gif{
+    height:400px;
+    width:450px;
+    text-align: center;
+}
+
+.posil{
+    color: lightgrey;
+    text-align: center;
+}
+
+.posil:hover{
+    color: pink;
+    box-shadow: 0 10px 15px 0 white;
+}
+
+img{
+    box-shadow: 0 10px 15px 0 white;
+}
+
+.center{
+    text-align:center;
+}
+
+main{
+    color: white;
+}
+
+table{
+height:100px ;
+width:auto ;
+border: 1px solid white;
+}
+td{
+    text-align: center;
+border: 1px solid white;
+}
+
+h3,h4,h5,h6{
+    font-size: 25px;
+    text-align: center;
+    box-shadow: 0 10px 15px 0 white;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+.footgif{
+    height:200px ;
+    width: auto;
+}
+
+.tableimg:hover{
+    opacity: 1;
+    border: 6px solid rgb(255, 255, 255);
+    width: 170px;
+    height: 220px;
+    transition: 0.5s ease-out;
+    padding: 5px;
+}
